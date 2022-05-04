@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Chirag/source/repos/CPFinalProject/CPFinalProject/Content/../../../../../Pictures/backScreen.jpg</File>
+    <File>C:/Users/Chirag/source/repos/CPFinalProject/CPFinalProject/Content/../../../../../Pictures/highScoreImage.png</File>
+    <File>C:/Users/Chirag/source/repos/CPFinalProject/CPFinalProject/Content/highlightFont.spritefont</File>
+    <File>C:/Users/Chirag/source/repos/CPFinalProject/CPFinalProject/Content/Images/aboutImage.jpg</File>
+    <File>C:/Users/Chirag/source/repos/CPFinalProject/CPFinalProject/Content/Images/Background.png</File>
+    <File>C:/Users/Chirag/source/repos/CPFinalProject/CPFinalProject/Content/Images/ball.png</File>
+    <File>C:/Users/Chirag/source/repos/CPFinalProject/CPFinalProject/Content/Images/bat.png</File>
+    <File>C:/Users/Chirag/source/repos/CPFinalProject/CPFinalProject/Content/Images/creditImage.jpg</File>
+    <File>C:/Users/Chirag/source/repos/CPFinalProject/CPFinalProject/Content/Images/helpImage.jpg</File>
+    <File>C:/Users/Chirag/source/repos/CPFinalProject/CPFinalProject/Content/Music/BackMusic1.mp3</File>
+    <File>C:/Users/Chirag/source/repos/CPFinalProject/CPFinalProject/Content/regularFont.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>Images/backScreen.jpg</File>
+    <File>Images/highScoreImage.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

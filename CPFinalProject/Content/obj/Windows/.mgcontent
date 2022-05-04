@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Chirag/source/repos/CPFinalProject/CPFinalProject/Content/highlightFont.spritefont</File>
+    <File>C:/Users/Chirag/source/repos/CPFinalProject/CPFinalProject/Content/Images/About.png</File>
+    <File>C:/Users/Chirag/source/repos/CPFinalProject/CPFinalProject/Content/Images/Background.png</File>
+    <File>C:/Users/Chirag/source/repos/CPFinalProject/CPFinalProject/Content/Images/ball.png</File>
+    <File>C:/Users/Chirag/source/repos/CPFinalProject/CPFinalProject/Content/Images/bat.png</File>
+    <File>C:/Users/Chirag/source/repos/CPFinalProject/CPFinalProject/Content/Images/Credit.png</File>
+    <File>C:/Users/Chirag/source/repos/CPFinalProject/CPFinalProject/Content/Images/Tutorial.png</File>
+    <File>C:/Users/Chirag/source/repos/CPFinalProject/CPFinalProject/Content/Music/BackMusic.wav</File>
+    <File>C:/Users/Chirag/source/repos/CPFinalProject/CPFinalProject/Content/regularFont.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

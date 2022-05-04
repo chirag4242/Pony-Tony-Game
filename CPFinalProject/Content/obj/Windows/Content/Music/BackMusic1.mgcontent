@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/Chirag/source/repos/CPFinalProject/CPFinalProject/Content/Music/BackMusic1.mp3</SourceFile>
+  <SourceTime>2021-12-12T20:30:12.9557106-05:00</SourceTime>
+  <DestFile>C:/Users/Chirag/source/repos/CPFinalProject/CPFinalProject/Content/bin/Windows/Content/Music/BackMusic1.xnb</DestFile>
+  <DestTime>2021-12-13T00:01:42.9256319-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2020-08-10T12:17:54-04:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2020-08-10T12:17:54-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/Chirag/source/repos/CPFinalProject/CPFinalProject/Content/bin/Windows/Content/Music/BackMusic1.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

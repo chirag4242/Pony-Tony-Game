@@ -1,0 +1,42 @@
+C:\Users\Chirag\source\repos\CPFinalProject\Setup\Pony tony.exe
+C:\Users\Chirag\source\repos\CPFinalProject\Setup\Content/highlightFont.xnb
+C:\Users\Chirag\source\repos\CPFinalProject\Setup\Content/Images\About.xnb
+C:\Users\Chirag\source\repos\CPFinalProject\Setup\Content/Images\aboutImage.xnb
+C:\Users\Chirag\source\repos\CPFinalProject\Setup\Content/Images\Background.xnb
+C:\Users\Chirag\source\repos\CPFinalProject\Setup\Content/Images\backScreen.xnb
+C:\Users\Chirag\source\repos\CPFinalProject\Setup\Content/Images\ball.xnb
+C:\Users\Chirag\source\repos\CPFinalProject\Setup\Content/Images\bat.xnb
+C:\Users\Chirag\source\repos\CPFinalProject\Setup\Content/Images\Credit.xnb
+C:\Users\Chirag\source\repos\CPFinalProject\Setup\Content/Images\creditImage.xnb
+C:\Users\Chirag\source\repos\CPFinalProject\Setup\Content/Images\helpImage.xnb
+C:\Users\Chirag\source\repos\CPFinalProject\Setup\Content/Images\highScoreImage.xnb
+C:\Users\Chirag\source\repos\CPFinalProject\Setup\Content/Images\Tutorial.xnb
+C:\Users\Chirag\source\repos\CPFinalProject\Setup\Content/Music\BackMusic1.wma
+C:\Users\Chirag\source\repos\CPFinalProject\Setup\Content/Music\BackMusic1.xnb
+C:\Users\Chirag\source\repos\CPFinalProject\Setup\Content/regularFont.xnb
+C:\Users\Chirag\source\repos\CPFinalProject\Setup\Pony tony.dll
+C:\Users\Chirag\source\repos\CPFinalProject\Setup\Pony tony.deps.json
+C:\Users\Chirag\source\repos\CPFinalProject\Setup\Pony tony.runtimeconfig.json
+C:\Users\Chirag\source\repos\CPFinalProject\Setup\Pony tony.pdb
+C:\Users\Chirag\source\repos\CPFinalProject\Setup\Microsoft.CodeAnalysis.dll
+C:\Users\Chirag\source\repos\CPFinalProject\Setup\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Chirag\source\repos\CPFinalProject\Setup\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Chirag\source\repos\CPFinalProject\Setup\Microsoft.VisualBasic.dll
+C:\Users\Chirag\source\repos\CPFinalProject\Setup\MonoGame.Framework.dll
+C:\Users\Chirag\source\repos\CPFinalProject\Setup\SharpDX.dll
+C:\Users\Chirag\source\repos\CPFinalProject\Setup\SharpDX.Direct2D1.dll
+C:\Users\Chirag\source\repos\CPFinalProject\Setup\SharpDX.Direct3D11.dll
+C:\Users\Chirag\source\repos\CPFinalProject\Setup\SharpDX.Direct3D9.dll
+C:\Users\Chirag\source\repos\CPFinalProject\Setup\SharpDX.DXGI.dll
+C:\Users\Chirag\source\repos\CPFinalProject\Setup\SharpDX.Mathematics.dll
+C:\Users\Chirag\source\repos\CPFinalProject\Setup\SharpDX.MediaFoundation.dll
+C:\Users\Chirag\source\repos\CPFinalProject\Setup\SharpDX.XAudio2.dll
+C:\Users\Chirag\source\repos\CPFinalProject\Setup\SharpDX.XInput.dll
+C:\Users\Chirag\source\repos\CPFinalProject\Setup\runtimes\debian-x64\native\libuv.so
+C:\Users\Chirag\source\repos\CPFinalProject\Setup\runtimes\fedora-x64\native\libuv.so
+C:\Users\Chirag\source\repos\CPFinalProject\Setup\runtimes\opensuse-x64\native\libuv.so
+C:\Users\Chirag\source\repos\CPFinalProject\Setup\runtimes\osx\native\libuv.dylib
+C:\Users\Chirag\source\repos\CPFinalProject\Setup\runtimes\rhel-x64\native\libuv.so
+C:\Users\Chirag\source\repos\CPFinalProject\Setup\runtimes\win7-arm\native\libuv.dll
+C:\Users\Chirag\source\repos\CPFinalProject\Setup\runtimes\win7-x64\native\libuv.dll
+C:\Users\Chirag\source\repos\CPFinalProject\Setup\runtimes\win7-x86\native\libuv.dll
