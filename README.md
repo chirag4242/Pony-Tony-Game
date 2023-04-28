@@ -1,5 +1,7 @@
 ## Pony-tony game - 2 Player game
-
+<p align="center">
+<img width="360" src="https://github.com/chirag4242/Pony-Tony-Game/blob/main/ReadMeImages/GameBoard.png" />
+</p>
 This project is a 2-player Ping-Pong game developed using C# and MonoGame. The game offers an engaging and exciting experience for users who want to enjoy a classic game of Ping-Pong.
 
 The game was designed with a focus on Object Oriented Programming principles, resulting in a modular and extensible codebase that makes it easy to maintain and update.
@@ -28,11 +30,17 @@ We are confident that this Ping-Pong game will provide an enjoyable and challeng
 [![itchdotio](https://img.shields.io/badge/Itch.io-FA5C5C.svg?style=flat-square&logo=itchdotio&logoColor=white)](https://chirag222.itch.io/ponytony)                             
 Link: https://chirag222.itch.io/ponytony
 
+## Class Diagram
 
-## Teach Stack
+<p align="center">
+<img width="720" src="https://github.com/chirag4242/Pony-Tony-Game/blob/main/ReadMeImages/ClassDiagram.png" />
+</p>
+
+## Tech Stack
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white) &nbsp;
-<img width="32" alt="MonoGame Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/MonoGame_Logo.svg/32px-MonoGame_Logo.svg.png">
+<img width="32" alt="MonoGame Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/MonoGame_Logo.svg/32px-MonoGame_Logo.svg.png" />
+
 ## Author and Social
 
 [![chirag42](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chirag42/) 
